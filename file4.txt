@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 This is some content to mess with (or up?) later
 newline
-=======
-overwriting file4.txt ooops
->>>>>>> newfeature
